@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vlad
-- 👀 I’m interested in computer science
+- 👀 I’m a computer science student
 
 
 <!---
