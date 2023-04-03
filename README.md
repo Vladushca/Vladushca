@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vlad
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning cybersecurity and programming
 
 
 <!---
